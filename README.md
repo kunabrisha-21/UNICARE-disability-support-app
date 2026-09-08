@@ -35,7 +35,16 @@ The objective of UNICARE is to provide a user-friendly digital platform that hel
 
 ## 📱 Application Preview
 
-Screenshots of the UNICARE application will be added here.
+### 🏠 Home Page 
+![UNICARE Home Page](home%20page.png) 
+### 🚨 Emergency SOS 
+![Emergency SOS](emergency%20sos%20alerts.png) 
+### 👩‍⚕️ Consultations & Appointments
+![Consultations and Appointments](consultations%20and%20appointments.png) 
+### 🤝 Care Services ![Care Services](care%20services.png)
+### ⚙️ Settings & Disability Profile 
+![Settings and Disability Profile]
+(settings%20and%20disability%20profile.png)
 
 ## 🚀 Project Status
 
